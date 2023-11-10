@@ -5,3 +5,4 @@ for i in range(36):
         turtle.forward(70)
         turtle.left(90)
     turtle.left(10)
+    printf(turtle)
